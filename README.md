@@ -9,5 +9,7 @@ Usage examples
 ./bin/growingng -q ../data/control_charts/synthetic_controlNorm.signal out/ control out/controlNormQuantized.txt
 
 References:
+
 http://web.cs.swarthmore.edu/~meeden/DevelopmentalRobotics/fritzke95.pdf
+
 http://wwwold.ini.rub.de/VDM/research/gsn/JavaPaper/node19.html
